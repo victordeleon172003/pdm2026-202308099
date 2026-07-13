@@ -1,47 +1,35 @@
-ENTREVISTA 2 — JOSÉ LÓPEZ
-
-Entrevistador: Víctor Horacio de León Fuentes – 202308099
-Tema: Restaurantes
-Entrevistado: José López
-
-Contexto: Jose lopez es un padre de familia el cual sale a desayunar con su familia temprano los domingos y casi siempre no encuentra con su familia estacionamiento.
-
-1. ¿Qué haces comúnmente cuando necesitas comer fuera de casa?
-
-Cuando no preparamos comida en la casa le pregunto a mi familia que quieren comer y buscamos un lugar que quede cerca. Casi siempre terminamos yendo a restaurantes que ya conocemos.
-
-2. Cuéntame la última vez que visitaste un restaurante nuevo.
-
-La ultima vez fuimos a un restaurante que nos recomendo un familiar, pero cuando llegamos el lugar era pequeño, las mesas estaban muy juntas y el parqueo era muy reducido.
-
-3. ¿Cómo conociste ese restaurante?
-
-Lo conocimos por recomendación de un familiar que habia visto unas publicaciones del restaurante en redes sociales.
-
-4. ¿Qué fue lo que más te molestó o te frustró de esa experiencia?
-
-Lo que mas me molesto fue que en la publicación no decia que el parqueo era pequeño ni que el restaurante tenia pocas mesas. Tambien tardaron bastante en atendernos.
-
-5. ¿Qué es lo primero que observas al entrar a un restaurante?
-
-Primero veo que el lugar este limpio, que tenga suficiente espacio, como estan colocadas las mesas y si mi familia va poder sentarse comoda.
-
-6. ¿Qué aplicaciones o medios utilizas para buscar restaurantes o pedir comida?
-
-Utilizo Facebook, Google Maps y tambien pregunto a familiares o conocidos. Algunas veces reviso aplicaciones de comida para ver el menu.
-
-7. ¿Qué problemas has tenido al consultar aplicaciones, menús o reseñas?
-
-A veces los horarios y las promociones ya no estan actualizadas. Tambien hay fotos donde el lugar se ve grande pero cuando uno llega es pequeño y las reseñas no dicen si es un lugar comodo para ir con la familia.
-
-8. ¿Qué información necesitas conocer antes de elegir un restaurante?
-
-Necesito conocer el menu, los precios, si tiene parqueo, el horario, la ubicación, cuanto tiempo se van a tardar y si el lugar tiene suficiente espacio.
-
-9. Cuéntame una ocasión en la que el parqueo influyó en tu decisión.
-
-Una vez dimos varias vueltas buscando donde dejar el carro y no encontramos un espacio seguro, entonces decidimos irnos a otro restaurante.
-
-10. Del 1 al 10, ¿qué tan importante es para ti que un restaurante tenga parqueo?
-
-Para mi es un 9 porque cuando salgo con mi familia necesito un lugar donde dejar el carro cerca y que sea seguro.
+DICE
+[CITA] “Le pregunto a mi familia qué quieren comer y buscamos un lugar que quede cerca.”
+[CITA] “Casi siempre terminamos yendo a restaurantes que ya conocemos.”
+[CITA] “El parqueo era muy reducido.”
+[CITA] “Decidimos irnos a otro restaurante porque no encontramos un espacio seguro.”
+PIENSA
+[INF] Considera que una salida familiar debe ser cómoda desde el momento de la llegada.
+[INF] Piensa que las publicaciones deberían mostrar las condiciones reales del restaurante.
+[INF] Cree que las reseñas recientes son más útiles que los comentarios antiguos.
+[INF] Evalúa el precio total de la visita y no solamente el costo de la comida.
+HACE
+[CITA] “Le pregunto a mi familia qué quieren comer.”
+[CITA] “Buscamos un lugar que quede cerca.”
+[INF] Busca recomendaciones entre familiares y conocidos.
+[INF] Revisa Facebook y Google Maps.
+[INF] Consulta el menú y el horario antes de salir.
+[CITA] “Decidimos irnos a otro restaurante.”
+SIENTE
+[INF] Siente seguridad cuando visita un restaurante conocido.
+[INF] Siente estrés al dar varias vueltas buscando parqueo.
+[INF] Siente decepción cuando la información de redes sociales no coincide con la realidad.
+[INF] Siente incomodidad cuando su familia no tiene suficiente espacio.
+[INF] Siente impaciencia cuando la atención tarda demasiado.
+DOLORES
+[INF] Los horarios y promociones pueden estar desactualizados.
+[INF] Las fotografías no siempre muestran el tamaño real del restaurante.
+[INF] Falta información sobre la disponibilidad y seguridad del parqueo.
+[INF] Es difícil saber si un restaurante es apropiado para toda la familia.
+[CITA] “Dimos varias vueltas buscando dónde dejar el carro.”
+GANANCIAS
+[INF] Encontrar un restaurante cómodo para toda la familia.
+[INF] Confirmar que existe parqueo antes de salir.
+[INF] Conocer el precio completo de la visita.
+[INF] Consultar horarios y promociones actualizadas.
+[INF] Reducir el tiempo dedicado a buscar diferentes opciones.
