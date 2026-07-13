@@ -1,44 +1,37 @@
-ENTREVISTA 1 — ALEJANDRA
-
-Entrevistador: Víctor Horacio de León Fuentes – 202308099
-Tema: Restaurantes
-Entrevistada: Alejandra
-
-Contexto: Ella es estudiante de veterianria, sale a comer casi siempre y tiene este problema ya que tiene carro.
-
-1. ¿Qué haces comúnmente cuando necesitas comer y no tienes comida preparada?
-
-Si hay comida en casa trato de preparar algo, pero si no hay nada me mando a pedir comida rápida.
-
-2. Cuéntame la última vez que visitaste o pediste comida de un restaurante.
-
-La ultima vez fui a un restaurante y cuando llegamos no tenia parqueo, tambien el lugar era pequeño y tardaron demasiado tiempo en llevar la comida.
-
-3. ¿Cómo conociste ese restaurante?
-
-Usualmente conozco los restaurantes por recomendaciones de amigos o familiares, porque en mi aldea no hay una aplicación donde pueda ver todos los restaurantes.
-
-4. ¿Qué fue lo que más te molestó o te frustró de esa experiencia?
-
-Lo que mas me molesto fue que no habia parqueo, que el restaurante era pequeño y que tardaron demasiado en llevar la comida.
-
-5. ¿Qué es lo primero que observas al entrar a un restaurante?
-
-Lo primero que veo es que se mire limpio y tambien veo si las mesas estan muy pegadas una de otra.
-
-6. ¿Qué aplicaciones o medios utilizas para buscar restaurantes o pedir comida?
-
-He utilizado aplicaciones de comida rápida, pero hay demasiadas aplicaciones y tengo que revisar una por una porque no hay una que tenga toda la información.
-
-7. ¿Qué problemas has tenido al consultar aplicaciones, menús o reseñas?
-
-A veces no aparece cuanto tiempo se va tardar el pedido, las reseñas son confusas y tambien algunos precios cambian o tienen cobros adicionales.
-
-8. ¿Qué información necesitas conocer antes de elegir un restaurante?
-
-Me gustaria ver el menu de cada restaurante, que incluye cada comida, las bebidas, los precios y principalmente si tiene parqueo y que tan lejos queda.
-
-9. Cuéntame una ocasión en la que el parqueo influyó en tu decisión.
+DICE
+[CITA] “Si hay comida en casa trato de preparar algo, pero si no hay nada me mando a pedir comida rápida.”
+[CITA] “Usualmente conozco los restaurantes por recomendaciones de amigos o familiares.”
+[CITA] “Lo que más me molestó fue que no había parqueo.”
+[CITA] “Varias veces me he encontrado con restaurantes que no tienen parqueo.”
+PIENSA
+[INF] Considera que elegir un restaurante sería más fácil si toda la información estuviera reunida en una sola aplicación.
+[INF] Cree que debe conocer si existe parqueo antes de salir de casa.
+[INF] Piensa que algunas reseñas no explican claramente la experiencia de los clientes.
+[INF] Evalúa si el precio mostrado en la aplicación corresponde al precio real del restaurante.
+HACE
+[CITA] “Si hay comida en casa trato de preparar algo.”
+[CITA] “Si no hay nada me mando a pedir comida rápida.”
+[CITA] “Conozco los restaurantes por recomendaciones de amigos o familiares.”
+[INF] Revisa distintas aplicaciones para comparar menús y precios.
+[INF] Decide si ir en carro, caminar o buscar otro restaurante dependiendo del parqueo.
+SIENTE
+[INF] Siente frustración cuando llega a un restaurante y no encuentra parqueo.
+[CITA] “Me molesta que el restaurante sea pequeño.”
+[CITA] “También me molesta que tarden demasiado en llevar la comida.”
+[INF] Siente incomodidad cuando las mesas están demasiado juntas.
+[INF] Siente confusión cuando las reseñas o los precios no son claros.
+DOLORES
+[CITA] “En mi aldea no hay una aplicación donde pueda ver todos los restaurantes.”
+[INF] La información sobre el tiempo de espera suele estar incompleta.
+[INF] Los precios pueden cambiar entre el restaurante y la aplicación.
+[INF] No siempre se informa si existe parqueo.
+[INF] Debe revisar varias aplicaciones para tomar una sola decisión.
+GANANCIAS
+[INF] Conocer anticipadamente si puede llegar en carro.
+[INF] Comparar menús y precios sin abrir varias aplicaciones.
+[INF] Saber cuánto tardará aproximadamente el pedido.
+[INF] Encontrar información clara sobre bebidas y acompañamientos.
+[INF] Elegir un restaurante limpio, cómodo y con suficiente espacio.
 
 Varias veces me he encontrado con restaurantes que no tienen parqueo, entonces es importante saberlo antes para decidir si llevo el carro, me voy caminando o busco otro lugar.
 
